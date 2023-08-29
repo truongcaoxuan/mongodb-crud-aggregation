@@ -1,6 +1,6 @@
 # MongoDB Aggregate - Challenge 1
 
-## Requirment
+## Requirement
 
 Find all users who are located in `New York`.
 

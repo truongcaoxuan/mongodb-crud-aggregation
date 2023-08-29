@@ -1,6 +1,6 @@
 # MongoDB CRUD - Practice 1
 
-## Requirment
+## Requirement
 
 Count all the people named `Pauline Fournier`.
 

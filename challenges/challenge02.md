@@ -1,6 +1,6 @@
 # MongoDB Aggregate - Challenge 2
 
-## Requirment
+## Requirement
 
 Find the user(s) with the email "<johndoe@example.com>" and retrieve their favorite movie.
 

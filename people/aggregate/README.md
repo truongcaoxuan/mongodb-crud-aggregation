@@ -1,6 +1,8 @@
 # MongoDB Aggregation Excercise
 
-Using data Collection `people.json`
+Using data Collection `people.json` extracted from people.zip file
+
+Using MongoDBCompass to import this data collection into MongoDB
 
 ## Aggreate list
 

@@ -1,6 +1,6 @@
 # MongoDB aggregate - Excercise 1
 
-## Requirment
+## Requirement
 
 Count the number of people in each country.
 

@@ -1,6 +1,6 @@
 # MongoDB aggregate - Excercise 9 (Advance)
 
-## Requirment
+## Requirement
 
 Count the number of people in each country by age groups as follows:
 

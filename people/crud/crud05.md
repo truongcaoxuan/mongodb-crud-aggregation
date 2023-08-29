@@ -1,6 +1,6 @@
 # MongoDB CRUD - Practice 5
 
-## Requirment
+## Requirement
 
 Count everyone who spent exactly `$12.99` on the `cinema`.
 

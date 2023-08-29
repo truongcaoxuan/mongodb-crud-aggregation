@@ -1,6 +1,6 @@
 # MongoDB Aggregate - Challenge 6
 
-## Requirment
+## Requirement
 
 Update the zipcode of the user with the email `"johndoe@example.com"` to `"10002"`.
 

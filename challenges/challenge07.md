@@ -1,6 +1,6 @@
 # MongoDB Aggregate - Challenge 7
 
-## Requirment
+## Requirement
 
 Delete the user with the email `"alicewilliams@example.com"` from the user data.
 

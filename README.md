@@ -72,6 +72,8 @@ mongod --version
 mongosh --version
 ```
 
-Congratulations! You've successfully installed MongoDB, MongoDB Shell (mongosh), and MongoDB Compass on your Windows system. You're now ready to start working with MongoDB databases and exploring data using MongoDB Compass.
+Congratulations!
+
+You've successfully installed MongoDB, MongoDB Shell (mongosh), and MongoDB Compass on your Windows system. You're now ready to start working with MongoDB databases and exploring data using MongoDB Compass.
 
 Remember to refer to the MongoDB documentation for further details on using the tools and managing MongoDB databases: <https://docs.mongodb.com/>

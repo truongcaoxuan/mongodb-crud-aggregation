@@ -1,6 +1,6 @@
 # MongoDB CRUD - Practice 7
 
-## Requirment
+## Requirement
 
 Count all the people who have `never been to the cinema` (no cinema payments yet).
 

@@ -1,6 +1,6 @@
 # MongoDB Aggregate - Challenge 4
 
-## Requirment
+## Requirement
 
 Find all users over `30` whose favorite color is `"green"`.
 

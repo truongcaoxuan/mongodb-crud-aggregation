@@ -1,6 +1,6 @@
 # MongoDB CRUD - Practice2
 
-## Requirment
+## Requirement
 
 Count all people whose name is `Pauline Fournier` and who were born before `January 1, 1970`.
 

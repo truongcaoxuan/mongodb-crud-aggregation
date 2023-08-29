@@ -1,6 +1,6 @@
 # MongoDB Aggregate - Challenge 16
 
-## Requirment
+## Requirement
 
 Calculate each state's total number of users in the address field.
 

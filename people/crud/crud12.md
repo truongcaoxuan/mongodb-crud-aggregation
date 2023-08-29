@@ -1,6 +1,6 @@
 # MongoDB CRUD - Practice 12
 
-## Requirment
+## Requirement
 
 Finds all people with firstName = `'Thomas'` and returns only the following fields: `_id`, `firstName` and `lastName`.
 

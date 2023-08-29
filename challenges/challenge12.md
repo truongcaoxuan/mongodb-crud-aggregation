@@ -1,6 +1,6 @@
 # MongoDB Aggregate - Challenge 12
 
-## Requirment
+## Requirement
 
 Find the user(s) with the highest age.
 

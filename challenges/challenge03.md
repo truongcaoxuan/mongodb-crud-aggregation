@@ -1,6 +1,6 @@
 # MongoDB Aggregate - Challenge 3
 
-## Requirment
+## Requirement
 
 Find all users with `"pizza"` as their favorite food and sort them according to age.
 

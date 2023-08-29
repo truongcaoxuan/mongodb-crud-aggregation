@@ -1,6 +1,6 @@
 # MongoDB Aggregate - Challenge 17
 
-## Requirment
+## Requirement
 
 Find the user(s) with the highest number of friends.
 

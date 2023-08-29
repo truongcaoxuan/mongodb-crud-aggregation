@@ -1,6 +1,6 @@
 # MongoDB CRUD - Practice 11
 
-## Requirment
+## Requirement
 
 Count all the people who have exactly `10` transactions.
 

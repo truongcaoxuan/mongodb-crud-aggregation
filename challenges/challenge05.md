@@ -1,6 +1,6 @@
 # MongoDB Aggregate - Challenge 5
 
-## Requirment
+## Requirement
 
 Count the number of users whose favorite movie is `"The Shawshank Redemption"`.
 

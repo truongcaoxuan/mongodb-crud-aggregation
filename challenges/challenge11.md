@@ -1,6 +1,6 @@
 # MongoDB Aggregate - Challenge 11
 
-## Requirment
+## Requirement
 
 Group users by their favorite color and retrieve the count of users in each color group.
 

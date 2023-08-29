@@ -1,6 +1,6 @@
 # MongoDB aggregate - Excercise 3
 
-## Requirment
+## Requirement
 
 How many people in each country have ever paid at a restaurant?
 

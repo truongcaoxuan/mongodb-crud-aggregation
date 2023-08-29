@@ -1,6 +1,6 @@
 # MongoDB Aggregate - Challenge 13
 
-## Requirment
+## Requirement
 
 Find the most common favorite food among all users.
 

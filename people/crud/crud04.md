@@ -1,6 +1,6 @@
 # MongoDB CRUD - Practice 4
 
-## Requirment
+## Requirement
 
 Count all the people who have `no credits`.
 

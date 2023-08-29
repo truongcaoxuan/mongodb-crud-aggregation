@@ -1,6 +1,6 @@
 # MongoDB CRUD - Practice 9
 
-## Requirment
+## Requirement
 
 Count all the people from `Warsaw`, `Poland` who have been to the `cinema` but never to the `disco`.
 

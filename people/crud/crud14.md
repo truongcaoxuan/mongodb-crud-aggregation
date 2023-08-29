@@ -1,6 +1,6 @@
 # MongoDB CRUD - Practice 14
 
-## Requirment
+## Requirement
 
 Add an element to the payments of people who are in `France` with the following structure:
 

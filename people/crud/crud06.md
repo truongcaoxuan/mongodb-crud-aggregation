@@ -1,6 +1,6 @@
 # MongoDB CRUD - Practice 6
 
-## Requirment
+## Requirement
 
 Count all the people whose first payment was `$12.99` for the `cinema`.
 

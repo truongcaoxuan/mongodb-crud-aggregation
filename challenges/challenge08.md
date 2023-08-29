@@ -1,6 +1,6 @@
 # MongoDB Aggregate - Challenge 8
 
-## Requirment
+## Requirement
 
 Group users by their favorite movie and retrieve the average age in each movie group.
 

@@ -1,6 +1,6 @@
 # MongoDB aggregate - Excercise 4
 
-## Requirment
+## Requirement
 
 Find 3 people with the most total account balance. If a person has the same total asset balance, compare using "firstName" and "lastName" fields.
 Hint: Asset balances are stored in the field "wealth.bankAccounts.balance"

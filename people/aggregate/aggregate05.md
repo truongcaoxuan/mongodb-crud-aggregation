@@ -1,6 +1,6 @@
 # MongoDB aggregate - Excercise 5
 
-## Requirment
+## Requirement
 
 Count the number of restaurant payments, the total amount spent, and the average amount per payment by country.
 

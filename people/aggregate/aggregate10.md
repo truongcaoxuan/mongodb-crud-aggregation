@@ -1,6 +1,6 @@
 # MongoDB aggregate - Excercise 10 (Advance)
 
-## Requirment
+## Requirement
 
 Count the number of people in each country by age groups as follows:
 Calculate the percentage of the country's population in the following age groups:

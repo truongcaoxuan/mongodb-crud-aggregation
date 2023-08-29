@@ -1,6 +1,6 @@
 # MongoDB Aggregate - Challenge 14
 
-## Requirment
+## Requirement
 
 Calculate the total count of friends across all users.
 

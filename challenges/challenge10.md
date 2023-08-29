@@ -1,6 +1,6 @@
 # MongoDB Aggregate - Challenge 10
 
-## Requirment
+## Requirement
 
 Perform a lookup aggregation to retrieve the orders data along with the customer details for each order.
 

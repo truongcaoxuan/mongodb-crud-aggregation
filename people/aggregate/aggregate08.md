@@ -1,6 +1,6 @@
 # MongoDB aggregate - Excercise 8
 
-## Requirment
+## Requirement
 
 Write a query to calculate the total value that a person has paid by each category.
 

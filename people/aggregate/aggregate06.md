@@ -1,6 +1,6 @@
 # MongoDB aggregate - Excercise 6
 
-## Requirment
+## Requirement
 
 There is a country where the average payment at a restaurant is the highest and a country where the average payment at a restaurant is the lowest. How many times more people in the first country spend than people in the second?
 

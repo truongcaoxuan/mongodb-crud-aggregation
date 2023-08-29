@@ -1,6 +1,6 @@
 # MongoDB aggregate - Excercise 2
 
-## Requirment
+## Requirement
 
 What is the most popular address and how many people live there?
 

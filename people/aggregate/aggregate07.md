@@ -1,6 +1,6 @@
 # MongoDB aggregate - Excercise 7
 
-## Requirment
+## Requirement
 
 Write a query to find all people with one or more transactions worth less than $5. The returned results only include the fields firstName, lastName and the payments array containing ALL elements with amount less than 5$.
 

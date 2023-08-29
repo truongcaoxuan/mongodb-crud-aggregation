@@ -1,6 +1,6 @@
 # MongoDB CRUD - Practice 3
 
-## Requirment
+## Requirement
 
 Count all people with names:
 

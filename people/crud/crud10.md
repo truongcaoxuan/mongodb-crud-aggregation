@@ -1,6 +1,6 @@
 # MongoDB CRUD - Practice 10
 
-## Requirment
+## Requirement
 
 Count all the `female` from `Paris` and `male` from `Cracow` that have all of the following properties:
 

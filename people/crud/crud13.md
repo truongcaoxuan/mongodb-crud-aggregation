@@ -1,6 +1,6 @@
 # MongoDB CRUD - Practice 13
 
-## Requirment
+## Requirement
 
 Find everyone who has one or more transactions worth less than `$5`.
 

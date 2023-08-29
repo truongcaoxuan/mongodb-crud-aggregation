@@ -1,5 +1,13 @@
 # Mongoose Aggregation Challenges
 
+## Data Collections
+
+- challenges.json
+- customers.json
+- orders.json
+
+Using MongoDBCompass to import this data collection into MongoDB
+
 ## Challenges list
 
 **challenge01**: Find all users who are located in New York.

@@ -1,6 +1,6 @@
 # MongoDB Aggregate - Challenge 9
 
-## Requirment
+## Requirement
 
 Calculate the average age of users with a favorite `"pizza"` food.
 
